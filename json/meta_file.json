@@ -1,0 +1,9 @@
+{
+    "dataset-1": {
+        "root": "/content/gdrive/MyDrive/ECE1786_project/data",
+        "annotation": "/content/gdrive/MyDrive/ECE1786_project/product_data.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 50
+    }
+}

@@ -1,0 +1,21 @@
+String,Height (in),Length (in),Depth (in),Color,Price (USD)
+"I'm looking for a white table with dimensions approximately 29.53 inches in height, 59.06 inches in length, and 35.43 inches in depth, priced around $300.",29.53,59.06,35.43,White,300
+"Do you have a brown table that's 29.53 inches tall, 78.74 inches long, and 35.43 inches deep, priced at $600?",29.53,78.74,35.43,Brown,600
+"I need a black table with dimensions of 30.71 inches in height, 78.74 inches in length, and 39.37 inches in depth, priced at $700.",30.71,78.74,39.37,Black,700
+"Can you recommend an oak table that's 29.92 inches tall, 70.87 inches long, and 31.5 inches deep, priced at $800?",29.92,70.87,31.5,Oak,800
+"I'm searching for a white table with dimensions of 29.53 inches in height, 39.37 inches in length, and 39.37 inches in depth, costing $250.",29.53,39.37,39.37,White,250
+"Is there a dark brown table available that's 30.71 inches in height, 98.43 inches in length, and 39.37 inches in depth, priced at $1000?",30.71,98.43,39.37,Dark Brown,1000
+"Do you have a light gray table that measures 29.13 inches in height, 47.24 inches in length, and 27.56 inches in depth, for around $200?",29.13,47.24,27.56,Light Gray,200
+"I'm looking for a teak table with dimensions of 29.92 inches in height, 78.74 inches in length, and 39.37 inches in depth, priced at $500.",29.92,78.74,39.37,Teak,500
+"Can I get a white table that is 29.53 inches tall, 55.12 inches long, and 31.5 inches deep, costing $300?",29.53,55.12,31.5,White,300
+"I need a black table that's 29.13 inches in height, 47.24 inches in length, and 23.62 inches in depth, for $400.",29.13,47.24,23.62,Black,400
+"Do you have an oak table that is 29.13 inches tall, 59.06 inches long, and 23.62 inches deep, priced at $400?",29.13,59.06,23.62,Oak,400
+"I'm searching for a white table with dimensions of 45.05 inches in height, 62.99 inches in length, and 27.56 inches in depth, priced at $600.",45.05,62.99,27.56,White,600
+"Can I find a black table that's 29.53 inches in height, 39.37 inches in length, and 19.69 inches in depth, priced at $250?",29.53,39.37,19.69,Black,250
+"Do you have a black table with dimensions of 30.71 inches in height, 70.87 inches in length, and 31.5 inches in depth, for $800?",30.71,70.87,31.5,Black,800
+"I need a white table that's 29.92 inches tall, 59.06 inches long, and 23.62 inches deep, priced at $500.",29.92,59.06,23.62,White,500
+"Is there a brown table that's 29.53 inches in height, 70.87 inches in length, and 27.56 inches in depth, priced at $700?",29.53,70.87,27.56,Brown,700
+"Can you suggest a white table with dimensions of 29.13 inches in height, 47.24 inches in length, and 19.69 inches in depth, for $150?",29.13,47.24,19.69,White,150
+"Do you have a dark walnut table that's 29.53 inches in height, 55.12 inches in length, and 25.59 inches in depth, priced at $700?",29.53,55.12,25.59,Dark Walnut,700
+"I'm looking for a black table with dimensions of 30.31 inches in height, 59.06 inches in length, and 23.62 inches in depth, costing $400.",30.31,59.06,23.62,Black,400
+"Can I find an oak table that's 29.92 inches tall, 59.06 inches long, and 33.46 inches deep, for $350?",29.92,59.06,33.46,Oak,350
